@@ -1,0 +1,41 @@
+[
+    [
+        "dish1", 
+        {
+            "available": false, 
+            "category": "Pasta", 
+            "cost": 145, 
+            "desc": "Excellent", 
+            "image": "https://www.acouplecooks.com/wp-content/uploads/2019/07/Basil-Pesto-Pasta-003.jpg", 
+            "name": "Pesto Pasta", 
+            "rating": "[Object]", 
+            "veg": "n"
+        }
+    ], 
+    [
+        "dish2", 
+        {
+            "available": true, 
+            "category": "Pizza", 
+            "cost": 120, 
+            "desc": "Very Good",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/NYPizzaPie.jpg", 
+            "name": "Egg Pizza", 
+            "rating": "[Object]", 
+            "veg": "e"
+        }
+    ], 
+    [
+        "dish3", 
+        {
+            "available": true, 
+            "category": "Pasta", 
+            "cost": 120, 
+            "desc": "Good", 
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Original_Mac_n_Cheese_.jpg/1200px-Original_Mac_n_Cheese_.jpg", 
+            "name": "Mac N Cheese", 
+            "rating": "[Object]", 
+            "veg": "v"
+        }
+    ]
+]
