@@ -4,6 +4,7 @@
 
 #config
 /config
+/android/app/google-services.json
 
 # Xcode
 #
